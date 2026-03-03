@@ -1,0 +1,1635 @@
+[2025-06-16 21:19:02,961: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-17 15:24:12,304: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-17 15:24:12,314: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-17 15:24:12,323: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-17 15:32:38,253: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-17 15:32:38,257: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-17 15:32:38,260: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-17 15:32:38,262: INFO: common: created directories at: artifacts]
+[2025-06-17 15:32:38,264: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-17 15:32:39,572: INFO: 184778816: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: BC03:381911:1B9A7:1E9DE:68514446
+Accept-Ranges: bytes
+Date: Tue, 17 Jun 2025 10:32:39 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs1050090-MRS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1750156359.854533,VS0,VE197
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: d80ab3db783c5e3edddc432a289bdf947bb308e1
+Expires: Tue, 17 Jun 2025 10:37:39 GMT
+Source-Age: 0
+
+]
+[2025-06-17 16:44:54,471: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-17 16:44:54,471: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-17 16:44:54,471: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-17 16:44:54,471: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-17 16:44:54,471: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-17 16:44:54,471: INFO: common: created directories at: artifacts]
+[2025-06-17 16:44:54,471: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-17 16:44:55,822: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 54A8:1376D0:121CD5:140C51:68515536
+Accept-Ranges: bytes
+Date: Tue, 17 Jun 2025 11:44:55 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs1050109-MRS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1750160695.849652,VS0,VE215
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 25547628160b5db4446dd2cf3498434c668df96f
+Expires: Tue, 17 Jun 2025 11:49:55 GMT
+Source-Age: 0
+
+]
+[2025-06-17 16:44:55,838: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-18 13:28:01,123: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-18 13:28:01,128: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-18 13:28:01,136: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-18 13:28:01,141: INFO: common: created directories at: artifacts]
+[2025-06-18 13:31:39,617: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-18 13:31:39,627: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-18 13:31:39,636: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-18 13:31:39,639: INFO: common: created directories at: artifacts]
+[2025-06-18 13:33:21,069: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-18 13:33:21,073: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-18 13:33:21,079: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-18 13:33:21,082: INFO: common: created directories at: artifacts]
+[2025-06-18 13:33:50,644: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-18 13:33:50,650: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-18 13:33:50,653: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-18 13:33:50,660: INFO: common: created directories at: artifacts]
+[2025-06-18 13:35:03,343: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-18 13:35:03,347: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-18 13:35:03,352: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-18 13:35:03,354: INFO: common: created directories at: artifacts]
+[2025-06-18 13:35:57,954: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-18 13:35:57,957: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-18 13:35:57,965: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-18 13:35:57,967: INFO: common: created directories at: artifacts]
+[2025-06-18 13:35:57,971: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-18 13:40:41,250: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-18 13:40:41,253: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-18 13:40:41,257: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-18 13:40:41,260: INFO: common: created directories at: artifacts]
+[2025-06-18 13:40:41,261: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-18 13:42:54,236: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-18 13:42:54,238: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-18 13:42:54,245: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-18 13:42:54,248: INFO: common: created directories at: artifacts]
+[2025-06-18 13:42:54,251: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-18 13:58:22,100: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-18 13:58:22,100: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-18 13:58:22,109: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-18 13:58:22,109: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-18 13:58:22,110: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-18 13:58:22,110: INFO: common: created directories at: artifacts]
+[2025-06-18 13:58:22,110: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-18 13:58:22,110: INFO: data_ingestion: file already exists]
+[2025-06-18 13:58:22,134: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-18 13:58:22,134: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-18 13:58:22,137: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-18 13:58:22,141: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-18 13:58:22,149: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-18 13:58:22,150: INFO: common: created directories at: artifacts]
+[2025-06-18 13:58:22,151: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-18 13:58:22,152: ERROR: main: 'DataValidation' object has no attribute 'download_file']
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 22, in <module>
+    data_ingestion.initiate_data_validation()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\data_validation_pipeline.py", line 15, in initiate_data_validation
+    data_validation.download_file()
+AttributeError: 'DataValidation' object has no attribute 'download_file'
+[2025-06-18 14:02:31,259: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-18 14:02:31,259: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-18 14:02:31,275: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-18 14:02:31,275: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-18 14:02:31,275: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-18 14:02:31,275: INFO: common: created directories at: artifacts]
+[2025-06-18 14:02:31,275: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-18 14:02:31,275: INFO: data_ingestion: file already exists]
+[2025-06-18 14:02:31,275: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-18 14:02:31,275: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-18 14:02:31,287: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-18 14:02:31,288: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-18 14:02:31,291: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-18 14:02:31,291: INFO: common: created directories at: artifacts]
+[2025-06-18 14:02:31,296: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-18 14:02:31,296: ERROR: main: name 'pd' is not defined]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 22, in <module>
+    data_ingestion.initiate_data_validation()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\data_validation_pipeline.py", line 15, in initiate_data_validation
+    data_validation.validate_all_columns()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\data_validation.py", line 30, in validate_all_columns
+    raise e
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\data_validation.py", line 13, in validate_all_columns
+    data=pd.read_csv(self.config.unzip_data_dir)
+NameError: name 'pd' is not defined
+[2025-06-18 14:03:58,097: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-18 14:03:58,097: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-18 14:03:58,097: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-18 14:03:58,097: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-18 14:03:58,097: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-18 14:03:58,097: INFO: common: created directories at: artifacts]
+[2025-06-18 14:03:58,113: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-18 14:03:58,114: INFO: data_ingestion: file already exists]
+[2025-06-18 14:03:58,119: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-18 14:03:58,119: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-18 14:03:58,124: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-18 14:03:58,125: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-18 14:03:58,128: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-18 14:03:58,129: INFO: common: created directories at: artifacts]
+[2025-06-18 14:03:58,129: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-18 14:03:58,156: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-18 17:04:33,019: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-18 17:04:33,022: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-18 17:04:33,028: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-18 17:04:33,031: INFO: common: created directories at: artifacts]
+[2025-06-18 17:04:33,033: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-19 14:03:09,483: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 14:03:09,489: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 14:03:09,495: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 14:03:09,497: INFO: common: created directories at: artifacts]
+[2025-06-19 14:03:09,498: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-19 14:03:09,540: INFO: 307722839: splitting data into train and test sets]
+[2025-06-19 14:03:09,544: INFO: 307722839: (1199, 12)]
+[2025-06-19 14:03:09,546: INFO: 307722839: (400, 12)]
+[2025-06-19 14:24:26,710: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-19 14:24:26,710: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-19 14:24:26,710: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 14:24:26,710: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 14:24:26,710: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 14:24:26,710: INFO: common: created directories at: artifacts]
+[2025-06-19 14:24:26,710: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-19 14:24:26,710: INFO: data_ingestion: file already exists]
+[2025-06-19 14:24:26,737: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-19 14:24:26,737: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-19 14:24:26,737: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 14:24:26,737: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 14:24:26,744: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 14:24:26,744: INFO: common: created directories at: artifacts]
+[2025-06-19 14:24:26,744: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-19 14:24:26,769: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-19 14:24:26,770: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-19 14:24:26,774: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 14:24:26,774: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 14:24:26,778: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 14:24:26,778: INFO: common: created directories at: artifacts]
+[2025-06-19 14:24:26,778: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-19 14:24:26,828: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-19 14:24:26,828: INFO: data_transformation: (1199, 12)]
+[2025-06-19 14:24:26,828: INFO: data_transformation: (400, 12)]
+[2025-06-19 14:24:26,828: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-19 16:13:38,574: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 16:13:38,581: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 16:13:38,599: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 16:13:38,601: INFO: common: created directories at: artifacts]
+[2025-06-19 16:13:38,604: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-19 16:16:31,323: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 16:16:31,330: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 16:16:31,335: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 16:16:31,337: INFO: common: created directories at: artifacts]
+[2025-06-19 16:16:31,339: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-19 16:30:31,025: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-19 16:30:31,025: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-19 16:30:31,040: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 16:30:31,040: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 16:30:31,040: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 16:30:31,040: INFO: common: created directories at: artifacts]
+[2025-06-19 16:30:31,040: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-19 16:30:31,040: INFO: data_ingestion: file already exists]
+[2025-06-19 16:30:31,058: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-19 16:30:31,058: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-19 16:30:31,067: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 16:30:31,069: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 16:30:31,071: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 16:30:31,072: INFO: common: created directories at: artifacts]
+[2025-06-19 16:30:31,072: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-19 16:30:31,093: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-19 16:30:31,093: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-19 16:30:31,099: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 16:30:31,101: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 16:30:31,106: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 16:30:31,107: INFO: common: created directories at: artifacts]
+[2025-06-19 16:30:31,107: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-19 16:30:31,136: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-19 16:30:31,136: INFO: data_transformation: (1199, 12)]
+[2025-06-19 16:30:31,137: INFO: data_transformation: (400, 12)]
+[2025-06-19 16:30:31,138: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-19 16:30:31,138: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-19 16:30:31,139: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 16:30:31,144: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 16:30:31,149: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 16:30:31,150: INFO: common: created directories at: artifacts]
+[2025-06-19 16:30:31,150: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-19 16:30:31,188: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-19 16:30:50,496: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-19 16:30:50,496: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-19 16:30:50,496: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 16:30:50,496: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 16:30:50,512: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 16:30:50,513: INFO: common: created directories at: artifacts]
+[2025-06-19 16:30:50,515: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-19 16:30:50,515: INFO: data_ingestion: file already exists]
+[2025-06-19 16:30:50,516: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-19 16:30:50,516: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-19 16:30:50,523: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 16:30:50,524: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 16:30:50,525: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 16:30:50,525: INFO: common: created directories at: artifacts]
+[2025-06-19 16:30:50,525: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-19 16:30:50,548: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-19 16:30:50,548: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-19 16:30:50,555: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 16:30:50,557: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 16:30:50,559: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 16:30:50,559: INFO: common: created directories at: artifacts]
+[2025-06-19 16:30:50,559: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-19 16:30:50,588: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-19 16:30:50,589: INFO: data_transformation: (1199, 12)]
+[2025-06-19 16:30:50,589: INFO: data_transformation: (400, 12)]
+[2025-06-19 16:30:50,589: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-19 16:30:50,589: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-19 16:30:50,589: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 16:30:50,589: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 16:30:50,598: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 16:30:50,599: INFO: common: created directories at: artifacts]
+[2025-06-19 16:30:50,600: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-19 16:30:50,648: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-19 19:34:37,854: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 19:34:37,861: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 19:34:37,862: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 19:34:37,862: INFO: common: created directories at: artifacts]
+[2025-06-19 19:35:02,461: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 19:35:02,469: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 19:35:02,473: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 19:35:02,476: INFO: common: created directories at: artifacts]
+[2025-06-19 19:35:55,770: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 19:35:55,778: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 19:35:55,782: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 19:35:55,784: INFO: common: created directories at: artifacts]
+[2025-06-19 19:37:48,111: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 19:37:48,118: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 19:37:48,123: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 19:37:48,125: INFO: common: created directories at: artifacts]
+[2025-06-19 19:37:48,126: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-19 19:39:14,160: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 19:39:14,166: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 19:39:14,171: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 19:39:14,173: INFO: common: created directories at: artifacts]
+[2025-06-19 19:39:14,175: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-19 19:40:32,142: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 19:40:32,148: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 19:40:32,153: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 19:40:32,156: INFO: common: created directories at: artifacts]
+[2025-06-19 19:40:32,159: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-19 19:41:40,111: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 19:41:40,120: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 19:41:40,124: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 19:41:40,126: INFO: common: created directories at: artifacts]
+[2025-06-19 19:41:40,128: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-19 19:41:40,488: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-19 19:48:05,789: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-19 19:48:05,797: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-19 19:48:05,801: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-19 19:48:05,803: INFO: common: created directories at: artifacts]
+[2025-06-19 19:48:05,806: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-19 19:48:06,149: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-20 10:14:45,982: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 10:14:46,006: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 10:14:46,022: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 10:14:46,023: INFO: common: created directories at: artifacts]
+[2025-06-20 10:14:46,026: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 10:14:46,901: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-20 10:44:52,059: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 10:44:52,070: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 10:44:52,075: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 10:44:52,078: INFO: common: created directories at: artifacts]
+[2025-06-20 10:44:52,080: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 10:44:53,375: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-20 10:45:32,947: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 10:45:32,953: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 10:45:32,956: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 10:45:32,959: INFO: common: created directories at: artifacts]
+[2025-06-20 10:45:32,961: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 10:45:33,333: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-20 10:50:28,395: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 10:50:28,395: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 10:50:28,410: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 10:50:28,412: INFO: common: created directories at: artifacts]
+[2025-06-20 10:50:28,415: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 10:50:28,771: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-20 11:01:00,572: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 11:01:00,578: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 11:01:00,582: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 11:01:00,584: INFO: common: created directories at: artifacts]
+[2025-06-20 11:01:00,587: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 11:01:01,261: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-20 11:01:49,895: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 11:01:49,902: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 11:01:49,904: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 11:01:49,906: INFO: common: created directories at: artifacts]
+[2025-06-20 11:01:49,907: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 11:01:50,245: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-20 11:04:24,581: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 11:04:24,588: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 11:04:24,592: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 11:04:24,595: INFO: common: created directories at: artifacts]
+[2025-06-20 11:04:24,598: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 11:04:24,991: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-20 11:07:11,098: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 11:07:11,105: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 11:07:11,108: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 11:07:11,110: INFO: common: created directories at: artifacts]
+[2025-06-20 11:07:11,112: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 11:07:11,451: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-20 11:13:22,712: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 11:13:22,719: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 11:13:22,723: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 11:13:22,726: INFO: common: created directories at: artifacts]
+[2025-06-20 11:13:22,729: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 11:32:13,328: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 11:32:13,337: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 11:32:13,342: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 11:32:13,345: INFO: common: created directories at: artifacts]
+[2025-06-20 11:32:13,348: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 11:32:14,045: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-20 11:35:52,143: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 11:35:52,145: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 11:35:52,156: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 11:35:52,159: INFO: common: created directories at: artifacts]
+[2025-06-20 11:35:52,161: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 11:35:53,342: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-20 11:54:16,018: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 11:54:16,018: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 11:54:16,018: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 11:54:16,018: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 11:54:16,018: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 11:54:16,018: INFO: common: created directories at: artifacts]
+[2025-06-20 11:54:16,018: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 11:54:16,018: INFO: data_ingestion: file already exists]
+[2025-06-20 11:54:16,048: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 11:54:16,048: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 11:54:16,054: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 11:54:16,054: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 11:54:16,054: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 11:54:16,054: INFO: common: created directories at: artifacts]
+[2025-06-20 11:54:16,054: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 11:54:16,096: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 11:54:16,096: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 11:54:16,105: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 11:54:16,112: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 11:54:16,116: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 11:54:16,116: INFO: common: created directories at: artifacts]
+[2025-06-20 11:54:16,118: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 11:54:16,151: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 11:54:16,155: INFO: data_transformation: (1199, 12)]
+[2025-06-20 11:54:16,155: INFO: data_transformation: (400, 12)]
+[2025-06-20 11:54:16,155: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 11:54:16,155: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 11:54:16,155: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 11:54:16,162: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 11:54:16,164: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 11:54:16,165: INFO: common: created directories at: artifacts]
+[2025-06-20 11:54:16,165: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 11:54:16,188: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 11:54:16,188: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 11:54:16,205: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 11:54:16,209: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 11:54:16,211: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 11:54:16,212: INFO: common: created directories at: artifacts]
+[2025-06-20 11:54:16,212: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 11:54:17,756: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-20 11:54:29,605: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 14:55:40,029: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.18.126:8080]
+[2025-06-20 14:55:40,030: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-06-20 14:56:03,180: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 14:56:03] "GET / HTTP/1.1" 200 -]
+[2025-06-20 14:56:03,222: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 14:56:03] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2025-06-20 14:56:03,427: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 14:56:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2025-06-20 14:56:25,764: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 14:56:25] "GET /train HTTP/1.1" 200 -]
+[2025-06-20 14:56:36,659: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 14:56:36] "GET /predict HTTP/1.1" 200 -]
+[2025-06-20 14:56:36,691: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 14:56:36] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2025-06-20 14:57:03,711: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 14:57:03] "POST /predict HTTP/1.1" 200 -]
+[2025-06-20 15:00:34,469: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.18.126:8080]
+[2025-06-20 15:00:34,471: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-06-20 15:00:44,814: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 15:00:44] "GET /train HTTP/1.1" 200 -]
+[2025-06-20 15:00:45,859: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 15:00:45] "GET / HTTP/1.1" 200 -]
+[2025-06-20 15:00:45,899: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 15:00:45] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2025-06-20 15:00:52,545: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 15:00:52] "GET /train HTTP/1.1" 200 -]
+[2025-06-20 15:01:38,619: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 15:01:38] "GET /predict HTTP/1.1" 200 -]
+[2025-06-20 15:01:38,674: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 15:01:38] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2025-06-20 15:02:09,071: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 15:02:09] "POST /predict HTTP/1.1" 200 -]
+[2025-06-20 15:37:52,309: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 15:37:52,310: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 15:37:52,327: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 15:37:52,331: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 15:37:52,333: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 15:37:52,334: INFO: common: created directories at: artifacts]
+[2025-06-20 15:37:52,334: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 15:37:52,334: INFO: data_ingestion: file already exists]
+[2025-06-20 15:37:52,340: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 15:37:52,341: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 15:37:52,346: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 15:37:52,348: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 15:37:52,354: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 15:37:52,355: INFO: common: created directories at: artifacts]
+[2025-06-20 15:37:52,355: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 15:37:52,377: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 15:37:52,378: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 15:37:52,384: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 15:37:52,386: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 15:37:52,388: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 15:37:52,389: INFO: common: created directories at: artifacts]
+[2025-06-20 15:37:52,389: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 15:37:52,417: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 15:37:52,418: INFO: data_transformation: (1199, 12)]
+[2025-06-20 15:37:52,418: INFO: data_transformation: (400, 12)]
+[2025-06-20 15:37:52,419: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 15:37:52,420: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 15:37:52,423: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 15:37:52,426: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 15:37:52,431: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 15:37:52,432: INFO: common: created directories at: artifacts]
+[2025-06-20 15:37:52,433: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 15:37:52,474: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 15:37:52,475: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 15:37:52,480: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 15:37:52,481: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 15:37:52,484: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 15:37:52,485: INFO: common: created directories at: artifacts]
+[2025-06-20 15:37:52,485: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 15:37:52,499: ERROR: main: str expected, not NoneType]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 14, in initiate_model_evaluation_pipeline
+    model_evaluation.log_into_mlflow()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\model_evaluation.py", line 38, in log_into_mlflow
+    os.environ['MLFLOW_TRACKING_USERNAME'] = os.getenv('MLFLOW_TRACKING_USERNAME')
+  File "D:\AI - Courses\MLOPs\wine_quality_project\venv\lib\os.py", line 684, in __setitem__
+    value = self.encodevalue(value)
+  File "D:\AI - Courses\MLOPs\wine_quality_project\venv\lib\os.py", line 742, in check_str
+    raise TypeError("str expected, not %s" % type(value).__name__)
+TypeError: str expected, not NoneType
+[2025-06-20 15:43:09,592: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 15:43:09,599: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 15:43:09,603: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 15:43:09,606: INFO: common: created directories at: artifacts]
+[2025-06-20 15:43:09,609: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 15:44:17,653: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 15:44:17,660: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 15:44:17,664: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 15:44:17,666: INFO: common: created directories at: artifacts]
+[2025-06-20 15:44:17,669: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 15:44:18,328: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-20 15:47:22,839: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.18.126:8080]
+[2025-06-20 15:47:22,840: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-06-20 15:47:29,552: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 15:47:29] "GET /predict HTTP/1.1" 200 -]
+[2025-06-20 15:47:29,658: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 15:47:29] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2025-06-20 15:47:32,967: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 15:47:32] "GET / HTTP/1.1" 200 -]
+[2025-06-20 15:47:33,276: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 15:47:33] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2025-06-20 15:47:39,771: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 15:47:39,772: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 15:47:39,776: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 15:47:39,778: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 15:47:39,781: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 15:47:39,781: INFO: common: created directories at: artifacts]
+[2025-06-20 15:47:39,782: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 15:47:39,782: INFO: data_ingestion: file already exists]
+[2025-06-20 15:47:39,784: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 15:47:39,785: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 15:47:39,794: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 15:47:39,797: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 15:47:39,802: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 15:47:39,803: INFO: common: created directories at: artifacts]
+[2025-06-20 15:47:39,803: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 15:47:39,829: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 15:47:39,830: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 15:47:39,834: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 15:47:39,836: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 15:47:39,839: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 15:47:39,839: INFO: common: created directories at: artifacts]
+[2025-06-20 15:47:39,840: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 15:47:39,871: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 15:47:39,871: INFO: data_transformation: (1199, 12)]
+[2025-06-20 15:47:39,872: INFO: data_transformation: (400, 12)]
+[2025-06-20 15:47:39,872: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 15:47:39,873: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 15:47:39,878: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 15:47:39,881: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 15:47:39,885: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 15:47:39,886: INFO: common: created directories at: artifacts]
+[2025-06-20 15:47:39,886: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 15:47:39,924: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 15:47:39,925: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 15:47:39,932: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 15:47:39,934: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 15:47:39,937: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 15:47:39,937: INFO: common: created directories at: artifacts]
+[2025-06-20 15:47:39,938: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 15:47:39,953: ERROR: main: str expected, not NoneType]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 14, in initiate_model_evaluation_pipeline
+    model_evaluation.log_into_mlflow()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\model_evaluation.py", line 38, in log_into_mlflow
+    os.environ['MLFLOW_TRACKING_USERNAME'] = os.getenv('MLFLOW_TRACKING_USERNAME')
+  File "D:\AI - Courses\MLOPs\wine_quality_project\venv\lib\os.py", line 684, in __setitem__
+    value = self.encodevalue(value)
+  File "D:\AI - Courses\MLOPs\wine_quality_project\venv\lib\os.py", line 742, in check_str
+    raise TypeError("str expected, not %s" % type(value).__name__)
+TypeError: str expected, not NoneType
+[2025-06-20 15:47:40,247: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 15:47:40] "GET /train HTTP/1.1" 200 -]
+[2025-06-20 15:47:46,099: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 15:47:46] "GET /predict HTTP/1.1" 200 -]
+[2025-06-20 15:47:46,139: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 15:47:46] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2025-06-20 15:48:23,050: INFO: _internal: 127.0.0.1 - - [20/Jun/2025 15:48:23] "POST /predict HTTP/1.1" 200 -]
+[2025-06-20 15:54:20,067: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 15:54:20,073: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 15:54:20,076: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 15:54:20,078: INFO: common: created directories at: artifacts]
+[2025-06-20 15:54:20,080: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 15:54:20,472: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-20 16:01:36,517: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:01:36,517: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:01:36,521: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:01:36,522: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:01:36,524: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:01:36,525: INFO: common: created directories at: artifacts]
+[2025-06-20 16:01:36,525: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:01:36,525: INFO: data_ingestion: file already exists]
+[2025-06-20 16:01:36,529: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:01:36,530: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:01:36,537: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:01:36,538: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:01:36,540: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:01:36,542: INFO: common: created directories at: artifacts]
+[2025-06-20 16:01:36,542: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:01:36,561: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:01:36,562: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:01:36,567: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:01:36,569: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:01:36,576: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:01:36,577: INFO: common: created directories at: artifacts]
+[2025-06-20 16:01:36,578: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:01:36,601: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:01:36,602: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:01:36,602: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:01:36,604: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:01:36,605: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:01:36,609: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:01:36,611: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:01:36,614: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:01:36,614: INFO: common: created directories at: artifacts]
+[2025-06-20 16:01:36,615: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:01:36,649: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:01:36,649: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:01:36,655: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:01:36,657: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:01:36,659: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:01:36,660: INFO: common: created directories at: artifacts]
+[2025-06-20 16:01:36,661: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:01:36,674: ERROR: main: One or more MLflow environment variables are missing in .env]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 14, in initiate_model_evaluation_pipeline
+    model_evaluation.log_into_mlflow()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\model_evaluation.py", line 42, in log_into_mlflow
+    raise EnvironmentError("One or more MLflow environment variables are missing in .env")
+OSError: One or more MLflow environment variables are missing in .env
+[2025-06-20 16:02:44,280: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:02:44,280: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:02:44,293: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:02:44,294: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:02:44,298: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:02:44,299: INFO: common: created directories at: artifacts]
+[2025-06-20 16:02:44,299: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:02:44,299: INFO: data_ingestion: file already exists]
+[2025-06-20 16:02:44,306: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:02:44,306: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:02:44,310: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:02:44,312: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:02:44,314: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:02:44,315: INFO: common: created directories at: artifacts]
+[2025-06-20 16:02:44,315: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:02:44,337: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:02:44,339: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:02:44,343: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:02:44,345: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:02:44,347: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:02:44,348: INFO: common: created directories at: artifacts]
+[2025-06-20 16:02:44,349: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:02:44,373: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:02:44,373: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:02:44,374: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:02:44,375: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:02:44,375: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:02:44,379: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:02:44,381: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:02:44,383: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:02:44,384: INFO: common: created directories at: artifacts]
+[2025-06-20 16:02:44,385: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:02:44,422: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:02:44,423: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:02:44,426: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:02:44,428: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:02:44,430: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:02:44,431: INFO: common: created directories at: artifacts]
+[2025-06-20 16:02:44,431: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:02:44,445: ERROR: main: One or more MLflow environment variables are missing in .env]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 14, in initiate_model_evaluation_pipeline
+    model_evaluation.log_into_mlflow()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\model_evaluation.py", line 42, in log_into_mlflow
+    raise EnvironmentError("One or more MLflow environment variables are missing in .env")
+OSError: One or more MLflow environment variables are missing in .env
+[2025-06-20 16:03:14,764: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:03:14,765: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:03:14,781: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:03:14,782: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:03:14,785: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:03:14,785: INFO: common: created directories at: artifacts]
+[2025-06-20 16:03:14,786: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:03:14,786: INFO: data_ingestion: file already exists]
+[2025-06-20 16:03:14,791: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:03:14,792: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:03:14,798: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:03:14,799: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:03:14,802: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:03:14,803: INFO: common: created directories at: artifacts]
+[2025-06-20 16:03:14,803: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:03:14,826: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:03:14,827: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:03:14,831: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:03:14,832: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:03:14,835: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:03:14,836: INFO: common: created directories at: artifacts]
+[2025-06-20 16:03:14,837: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:03:14,863: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:03:14,864: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:03:14,864: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:03:14,865: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:03:14,865: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:03:14,872: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:03:14,876: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:03:14,878: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:03:14,879: INFO: common: created directories at: artifacts]
+[2025-06-20 16:03:14,879: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:03:14,916: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:03:14,917: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:03:14,923: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:03:14,926: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:03:14,928: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:03:14,928: INFO: common: created directories at: artifacts]
+[2025-06-20 16:03:14,929: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:03:14,943: ERROR: main: One or more MLflow environment variables are missing in .env]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 14, in initiate_model_evaluation_pipeline
+    model_evaluation.log_into_mlflow()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\model_evaluation.py", line 42, in log_into_mlflow
+    raise EnvironmentError("One or more MLflow environment variables are missing in .env")
+OSError: One or more MLflow environment variables are missing in .env
+[2025-06-20 16:03:27,153: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:03:27,153: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:03:27,167: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:03:27,169: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:03:27,174: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:03:27,175: INFO: common: created directories at: artifacts]
+[2025-06-20 16:03:27,176: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:03:27,177: INFO: data_ingestion: file already exists]
+[2025-06-20 16:03:27,180: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:03:27,180: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:03:27,185: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:03:27,187: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:03:27,192: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:03:27,192: INFO: common: created directories at: artifacts]
+[2025-06-20 16:03:27,193: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:03:27,249: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:03:27,284: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:03:27,331: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:03:27,333: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:03:27,337: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:03:27,339: INFO: common: created directories at: artifacts]
+[2025-06-20 16:03:27,339: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:03:27,383: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:03:27,384: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:03:27,384: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:03:27,385: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:03:27,385: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:03:27,391: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:03:27,392: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:03:27,395: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:03:27,396: INFO: common: created directories at: artifacts]
+[2025-06-20 16:03:27,396: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:03:27,433: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:03:27,433: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:03:27,437: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:03:27,440: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:03:27,443: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:03:27,444: INFO: common: created directories at: artifacts]
+[2025-06-20 16:03:27,444: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:03:27,459: ERROR: main: One or more MLflow environment variables are missing in .env]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 14, in initiate_model_evaluation_pipeline
+    model_evaluation.log_into_mlflow()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\model_evaluation.py", line 42, in log_into_mlflow
+    raise EnvironmentError("One or more MLflow environment variables are missing in .env")
+OSError: One or more MLflow environment variables are missing in .env
+[2025-06-20 16:04:57,383: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:04:57,383: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:04:57,388: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:04:57,391: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:04:57,394: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:04:57,395: INFO: common: created directories at: artifacts]
+[2025-06-20 16:04:57,396: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:04:57,396: INFO: data_ingestion: file already exists]
+[2025-06-20 16:04:57,400: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:04:57,401: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:04:57,405: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:04:57,407: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:04:57,413: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:04:57,414: INFO: common: created directories at: artifacts]
+[2025-06-20 16:04:57,415: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:04:57,435: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:04:57,435: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:04:57,442: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:04:57,444: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:04:57,447: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:04:57,448: INFO: common: created directories at: artifacts]
+[2025-06-20 16:04:57,448: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:04:57,472: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:04:57,472: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:04:57,473: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:04:57,475: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:04:57,476: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:04:57,480: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:04:57,482: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:04:57,485: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:04:57,486: INFO: common: created directories at: artifacts]
+[2025-06-20 16:04:57,487: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:04:57,529: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:04:57,529: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:04:57,534: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:04:57,536: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:04:57,539: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:04:57,539: INFO: common: created directories at: artifacts]
+[2025-06-20 16:04:57,540: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:04:57,544: ERROR: main: "'ConfigBox' object has no attribute 'dotenv_path'"]
+Traceback (most recent call last):
+  File "box\\box.py", line 594, in box.box.Box.__getitem__
+KeyError: 'dotenv_path'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 633, in box.box.Box.__getattr__
+  File "box\\box.py", line 621, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'dotenv_path'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 635, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'dotenv_path'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\config_box.py", line 29, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 649, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'dotenv_path'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 594, in box.box.Box.__getitem__
+KeyError: 'dotenv_path'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 633, in box.box.Box.__getattr__
+  File "box\\box.py", line 621, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'dotenv_path'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 635, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'dotenv_path'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 12, in initiate_model_evaluation_pipeline
+    model_evaluation_config = config.get_model_evaluation_config()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\config\configuration.py", line 88, in get_model_evaluation_config
+    dotenv_path=config.dotenv_path
+  File "box\\config_box.py", line 31, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 649, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'dotenv_path'"
+[2025-06-20 16:07:45,352: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:07:45,353: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:07:45,357: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:07:45,359: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:07:45,361: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:07:45,361: INFO: common: created directories at: artifacts]
+[2025-06-20 16:07:45,362: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:07:45,362: INFO: data_ingestion: file already exists]
+[2025-06-20 16:07:45,366: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:07:45,366: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:07:45,374: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:07:45,375: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:07:45,380: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:07:45,381: INFO: common: created directories at: artifacts]
+[2025-06-20 16:07:45,381: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:07:45,400: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:07:45,401: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:07:45,406: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:07:45,407: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:07:45,410: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:07:45,411: INFO: common: created directories at: artifacts]
+[2025-06-20 16:07:45,411: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:07:45,439: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:07:45,440: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:07:45,440: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:07:45,440: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:07:45,442: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:07:45,447: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:07:45,452: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:07:45,454: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:07:45,455: INFO: common: created directories at: artifacts]
+[2025-06-20 16:07:45,455: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:07:45,495: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:07:45,496: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:07:45,501: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:07:45,502: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:07:45,505: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:07:45,506: INFO: common: created directories at: artifacts]
+[2025-06-20 16:07:45,506: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:07:45,519: ERROR: main: One or more MLflow environment variables are missing in .env]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 14, in initiate_model_evaluation_pipeline
+    model_evaluation.log_into_mlflow()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\model_evaluation.py", line 45, in log_into_mlflow
+    raise EnvironmentError("One or more MLflow environment variables are missing in .env")
+OSError: One or more MLflow environment variables are missing in .env
+[2025-06-20 16:09:37,867: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:09:37,868: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:09:37,872: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:09:37,873: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:09:37,877: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:09:37,877: INFO: common: created directories at: artifacts]
+[2025-06-20 16:09:37,878: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:09:37,878: INFO: data_ingestion: file already exists]
+[2025-06-20 16:09:37,884: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:09:37,884: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:09:37,890: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:09:37,891: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:09:37,894: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:09:37,895: INFO: common: created directories at: artifacts]
+[2025-06-20 16:09:37,895: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:09:37,913: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:09:37,915: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:09:37,920: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:09:37,922: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:09:37,925: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:09:37,925: INFO: common: created directories at: artifacts]
+[2025-06-20 16:09:37,925: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:09:37,949: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:09:37,950: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:09:37,951: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:09:37,952: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:09:37,952: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:09:37,956: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:09:37,958: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:09:37,961: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:09:37,961: INFO: common: created directories at: artifacts]
+[2025-06-20 16:09:37,962: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:09:37,997: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:09:37,998: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:09:38,005: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:09:38,007: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:09:38,011: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:09:38,012: INFO: common: created directories at: artifacts]
+[2025-06-20 16:09:38,013: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:09:38,034: ERROR: main: One or more MLflow environment variables are missing in .env]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 14, in initiate_model_evaluation_pipeline
+    model_evaluation.log_into_mlflow()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\model_evaluation.py", line 46, in log_into_mlflow
+    raise EnvironmentError("One or more MLflow environment variables are missing in .env")
+OSError: One or more MLflow environment variables are missing in .env
+[2025-06-20 16:10:33,193: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:10:33,194: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:10:33,197: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:10:33,198: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:10:33,201: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:10:33,202: INFO: common: created directories at: artifacts]
+[2025-06-20 16:10:33,202: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:10:33,202: INFO: data_ingestion: file already exists]
+[2025-06-20 16:10:33,205: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:10:33,205: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:10:33,213: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:10:33,214: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:10:33,219: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:10:33,220: INFO: common: created directories at: artifacts]
+[2025-06-20 16:10:33,220: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:10:33,242: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:10:33,243: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:10:33,258: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:10:33,271: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:10:33,281: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:10:33,282: INFO: common: created directories at: artifacts]
+[2025-06-20 16:10:33,285: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:10:33,344: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:10:33,345: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:10:33,346: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:10:33,348: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:10:33,349: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:10:33,360: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:10:33,365: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:10:33,385: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:10:33,388: INFO: common: created directories at: artifacts]
+[2025-06-20 16:10:33,389: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:10:33,454: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:10:33,455: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:10:33,466: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:10:33,468: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:10:33,471: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:10:33,471: INFO: common: created directories at: artifacts]
+[2025-06-20 16:10:33,472: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:10:33,485: ERROR: main: One or more MLflow environment variables are missing in .env]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 14, in initiate_model_evaluation_pipeline
+    model_evaluation.log_into_mlflow()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\model_evaluation.py", line 48, in log_into_mlflow
+    raise EnvironmentError("One or more MLflow environment variables are missing in .env")
+OSError: One or more MLflow environment variables are missing in .env
+[2025-06-20 16:17:47,101: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:17:47,102: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:17:47,119: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:17:47,120: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:17:47,122: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:17:47,123: INFO: common: created directories at: artifacts]
+[2025-06-20 16:17:47,124: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:17:47,124: INFO: data_ingestion: file already exists]
+[2025-06-20 16:17:47,126: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:17:47,127: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:17:47,133: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:17:47,134: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:17:47,136: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:17:47,136: INFO: common: created directories at: artifacts]
+[2025-06-20 16:17:47,137: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:17:47,157: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:17:47,157: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:17:47,163: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:17:47,165: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:17:47,171: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:17:47,172: INFO: common: created directories at: artifacts]
+[2025-06-20 16:17:47,172: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:17:47,199: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:17:47,199: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:17:47,200: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:17:47,201: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:17:47,201: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:17:47,206: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:17:47,207: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:17:47,210: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:17:47,211: INFO: common: created directories at: artifacts]
+[2025-06-20 16:17:47,212: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:17:47,248: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:17:47,249: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:17:47,253: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:17:47,254: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:17:47,256: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:17:47,257: INFO: common: created directories at: artifacts]
+[2025-06-20 16:17:47,258: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:17:47,272: ERROR: main: One or more MLflow environment variables are missing in .env]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 14, in initiate_model_evaluation_pipeline
+    model_evaluation.log_into_mlflow()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\model_evaluation.py", line 42, in log_into_mlflow
+    raise EnvironmentError("One or more MLflow environment variables are missing in .env")
+OSError: One or more MLflow environment variables are missing in .env
+[2025-06-20 16:19:51,882: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:19:51,883: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:19:51,887: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:19:51,888: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:19:51,893: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:19:51,894: INFO: common: created directories at: artifacts]
+[2025-06-20 16:19:51,895: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:19:51,895: INFO: data_ingestion: file already exists]
+[2025-06-20 16:19:51,900: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:19:51,902: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:19:51,906: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:19:51,907: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:19:51,910: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:19:51,911: INFO: common: created directories at: artifacts]
+[2025-06-20 16:19:51,911: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:19:51,937: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:19:51,937: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:19:51,942: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:19:51,943: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:19:51,946: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:19:51,948: INFO: common: created directories at: artifacts]
+[2025-06-20 16:19:51,948: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:19:51,971: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:19:51,973: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:19:51,973: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:19:51,973: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:19:51,974: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:19:51,978: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:19:51,980: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:19:51,984: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:19:51,986: INFO: common: created directories at: artifacts]
+[2025-06-20 16:19:51,986: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:19:52,031: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:19:52,032: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:19:52,037: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:19:52,039: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:19:52,041: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:19:52,042: INFO: common: created directories at: artifacts]
+[2025-06-20 16:19:52,042: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:19:52,060: ERROR: main: One or more MLflow environment variables are missing in .env]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 14, in initiate_model_evaluation_pipeline
+    model_evaluation.log_into_mlflow()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\model_evaluation.py", line 42, in log_into_mlflow
+    raise EnvironmentError("One or more MLflow environment variables are missing in .env")
+OSError: One or more MLflow environment variables are missing in .env
+[2025-06-20 16:22:02,885: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:22:02,887: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:22:02,901: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:22:02,904: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:22:02,908: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:22:02,909: INFO: common: created directories at: artifacts]
+[2025-06-20 16:22:02,909: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:22:02,909: INFO: data_ingestion: file already exists]
+[2025-06-20 16:22:02,912: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:22:02,912: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:22:02,916: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:22:02,917: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:22:02,920: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:22:02,921: INFO: common: created directories at: artifacts]
+[2025-06-20 16:22:02,921: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:22:02,946: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:22:02,946: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:22:02,950: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:22:02,951: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:22:02,955: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:22:02,955: INFO: common: created directories at: artifacts]
+[2025-06-20 16:22:02,956: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:22:02,982: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:22:02,983: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:22:02,983: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:22:02,983: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:22:02,983: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:22:02,993: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:22:02,995: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:22:02,997: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:22:02,998: INFO: common: created directories at: artifacts]
+[2025-06-20 16:22:02,998: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:22:03,058: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:22:03,059: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:22:03,065: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:22:03,066: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:22:03,073: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:22:03,074: INFO: common: created directories at: artifacts]
+[2025-06-20 16:22:03,074: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:22:03,093: ERROR: main: One or more MLflow environment variables are missing in .env]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 14, in initiate_model_evaluation_pipeline
+    model_evaluation.log_into_mlflow()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\model_evaluation.py", line 48, in log_into_mlflow
+    raise EnvironmentError("One or more MLflow environment variables are missing in .env")
+OSError: One or more MLflow environment variables are missing in .env
+[2025-06-20 16:25:38,413: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:25:38,414: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:25:38,418: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:25:38,420: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:25:38,428: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:25:38,428: INFO: common: created directories at: artifacts]
+[2025-06-20 16:25:38,429: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:25:38,429: INFO: data_ingestion: file already exists]
+[2025-06-20 16:25:38,432: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:25:38,433: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:25:38,438: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:25:38,439: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:25:38,443: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:25:38,443: INFO: common: created directories at: artifacts]
+[2025-06-20 16:25:38,444: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:25:38,469: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:25:38,469: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:25:38,473: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:25:38,476: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:25:38,478: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:25:38,480: INFO: common: created directories at: artifacts]
+[2025-06-20 16:25:38,482: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:25:38,505: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:25:38,505: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:25:38,506: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:25:38,508: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:25:38,508: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:25:38,513: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:25:38,515: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:25:38,518: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:25:38,520: INFO: common: created directories at: artifacts]
+[2025-06-20 16:25:38,520: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:25:38,573: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:25:38,573: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:25:38,581: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:25:38,582: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:25:38,585: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:25:38,586: INFO: common: created directories at: artifacts]
+[2025-06-20 16:25:38,586: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:25:38,602: ERROR: main: One or more MLflow environment variables are missing in .env]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 14, in initiate_model_evaluation_pipeline
+    model_evaluation.log_into_mlflow()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\model_evaluation.py", line 48, in log_into_mlflow
+    raise EnvironmentError("One or more MLflow environment variables are missing in .env")
+OSError: One or more MLflow environment variables are missing in .env
+[2025-06-20 16:29:58,685: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:29:58,686: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:29:58,689: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:29:58,691: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:29:58,693: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:29:58,694: INFO: common: created directories at: artifacts]
+[2025-06-20 16:29:58,694: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:29:58,694: INFO: data_ingestion: file already exists]
+[2025-06-20 16:29:58,697: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:29:58,697: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:29:58,703: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:29:58,705: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:29:58,710: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:29:58,710: INFO: common: created directories at: artifacts]
+[2025-06-20 16:29:58,711: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:29:58,744: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:29:58,744: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:29:58,751: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:29:58,752: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:29:58,756: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:29:58,757: INFO: common: created directories at: artifacts]
+[2025-06-20 16:29:58,758: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:29:58,783: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:29:58,784: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:29:58,784: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:29:58,786: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:29:58,786: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:29:58,790: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:29:58,792: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:29:58,795: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:29:58,795: INFO: common: created directories at: artifacts]
+[2025-06-20 16:29:58,796: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:29:58,842: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:29:58,843: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:29:58,847: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:29:58,851: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:29:58,854: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:29:58,855: INFO: common: created directories at: artifacts]
+[2025-06-20 16:29:58,855: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:29:58,872: ERROR: main: One or more MLflow environment variables are missing in .env]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 14, in initiate_model_evaluation_pipeline
+    model_evaluation.log_into_mlflow()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\model_evaluation.py", line 48, in log_into_mlflow
+    raise EnvironmentError("One or more MLflow environment variables are missing in .env")
+OSError: One or more MLflow environment variables are missing in .env
+[2025-06-20 16:33:10,777: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:33:10,778: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:33:10,781: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:33:10,783: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:33:10,785: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:33:10,786: INFO: common: created directories at: artifacts]
+[2025-06-20 16:33:10,786: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:33:10,786: INFO: data_ingestion: file already exists]
+[2025-06-20 16:33:10,789: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:33:10,789: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:33:10,794: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:33:10,796: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:33:10,801: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:33:10,802: INFO: common: created directories at: artifacts]
+[2025-06-20 16:33:10,803: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:33:10,830: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:33:10,830: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:33:10,835: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:33:10,835: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:33:10,840: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:33:10,842: INFO: common: created directories at: artifacts]
+[2025-06-20 16:33:10,843: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:33:10,865: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:33:10,866: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:33:10,867: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:33:10,867: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:33:10,868: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:33:10,874: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:33:10,876: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:33:10,879: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:33:10,880: INFO: common: created directories at: artifacts]
+[2025-06-20 16:33:10,881: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:33:10,932: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:33:10,932: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:33:10,937: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:33:10,939: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:33:10,942: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:33:10,943: INFO: common: created directories at: artifacts]
+[2025-06-20 16:33:10,943: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:33:10,961: ERROR: main: One or more MLflow environment variables are missing in .env]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 14, in initiate_model_evaluation_pipeline
+    model_evaluation.log_into_mlflow()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\model_evaluation.py", line 49, in log_into_mlflow
+    raise EnvironmentError("One or more MLflow environment variables are missing in .env")
+OSError: One or more MLflow environment variables are missing in .env
+[2025-06-20 16:39:27,116: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:39:27,116: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:39:27,120: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:39:27,121: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:39:27,124: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:39:27,124: INFO: common: created directories at: artifacts]
+[2025-06-20 16:39:27,124: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:39:27,125: INFO: data_ingestion: file already exists]
+[2025-06-20 16:39:27,127: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:39:27,127: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:39:27,133: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:39:27,135: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:39:27,141: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:39:27,142: INFO: common: created directories at: artifacts]
+[2025-06-20 16:39:27,142: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:39:27,160: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:39:27,161: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:39:27,165: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:39:27,167: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:39:27,172: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:39:27,173: INFO: common: created directories at: artifacts]
+[2025-06-20 16:39:27,173: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:39:27,197: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:39:27,197: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:39:27,199: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:39:27,200: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:39:27,200: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:39:27,208: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:39:27,210: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:39:27,212: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:39:27,213: INFO: common: created directories at: artifacts]
+[2025-06-20 16:39:27,213: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:39:27,254: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:39:27,254: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:39:27,258: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:39:27,259: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:39:27,262: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:39:27,263: INFO: common: created directories at: artifacts]
+[2025-06-20 16:39:27,263: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:39:27,278: ERROR: main: .env file not found at D:\AI - Courses\MLOPs\.env]
+Traceback (most recent call last):
+  File "D:\AI - Courses\MLOPs\wine_quality_project\main.py", line 60, in <module>
+    model_evaluation.initiate_model_evaluation_pipeline()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\pipeline\model_evaluation_pipeline.py", line 14, in initiate_model_evaluation_pipeline
+    model_evaluation.log_into_mlflow()
+  File "D:\AI - Courses\MLOPs\wine_quality_project\src\wine_quality_project\components\model_evaluation.py", line 41, in log_into_mlflow
+    raise FileNotFoundError(f".env file not found at {resolved_env_path}")
+FileNotFoundError: .env file not found at D:\AI - Courses\MLOPs\.env
+[2025-06-20 16:40:06,689: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:40:06,689: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:40:06,694: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:40:06,694: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:40:06,697: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:40:06,698: INFO: common: created directories at: artifacts]
+[2025-06-20 16:40:06,698: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:40:06,699: INFO: data_ingestion: file already exists]
+[2025-06-20 16:40:06,701: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:40:06,702: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:40:06,711: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:40:06,712: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:40:06,713: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:40:06,715: INFO: common: created directories at: artifacts]
+[2025-06-20 16:40:06,715: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:40:06,736: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:40:06,736: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:40:06,744: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:40:06,745: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:40:06,748: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:40:06,749: INFO: common: created directories at: artifacts]
+[2025-06-20 16:40:06,750: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:40:06,777: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:40:06,777: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:40:06,778: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:40:06,778: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:40:06,779: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:40:06,786: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:40:06,788: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:40:06,790: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:40:06,791: INFO: common: created directories at: artifacts]
+[2025-06-20 16:40:06,791: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:40:06,828: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:40:06,828: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:40:06,832: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:40:06,835: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:40:06,838: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:40:06,838: INFO: common: created directories at: artifacts]
+[2025-06-20 16:40:06,839: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:40:08,287: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-20 16:40:20,627: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:41:09,056: INFO: main: Welcome to the Wine Quality Project]
+[2025-06-20 16:41:09,057: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-20 16:41:09,061: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:41:09,062: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:41:09,064: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:41:09,065: INFO: common: created directories at: artifacts]
+[2025-06-20 16:41:09,065: INFO: common: created directories at: artifacts/data_ingestion]
+[2025-06-20 16:41:09,066: INFO: data_ingestion: file already exists]
+[2025-06-20 16:41:09,068: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:41:09,069: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-20 16:41:09,073: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:41:09,075: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:41:09,080: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:41:09,081: INFO: common: created directories at: artifacts]
+[2025-06-20 16:41:09,082: INFO: common: created directories at: artifacts/data_validation]
+[2025-06-20 16:41:09,100: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:41:09,100: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-20 16:41:09,109: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:41:09,111: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:41:09,114: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:41:09,114: INFO: common: created directories at: artifacts]
+[2025-06-20 16:41:09,115: INFO: common: created directories at: artifacts/data_transformation]
+[2025-06-20 16:41:09,141: INFO: data_transformation: splitting data into train and test sets]
+[2025-06-20 16:41:09,141: INFO: data_transformation: (1199, 12)]
+[2025-06-20 16:41:09,142: INFO: data_transformation: (400, 12)]
+[2025-06-20 16:41:09,142: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:41:09,143: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-20 16:41:09,147: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:41:09,148: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:41:09,151: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:41:09,154: INFO: common: created directories at: artifacts]
+[2025-06-20 16:41:09,155: INFO: common: created directories at: artifacts/model_trainer]
+[2025-06-20 16:41:09,190: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x=========x]
+[2025-06-20 16:41:09,191: INFO: main: >>>>>> stage Model Evaluation Stage started <<<<<<]
+[2025-06-20 16:41:09,195: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2025-06-20 16:41:09,196: INFO: common: yaml file: params.yaml loaded successfuly]
+[2025-06-20 16:41:09,198: INFO: common: yaml file: schema.yaml loaded successfuly]
+[2025-06-20 16:41:09,199: INFO: common: created directories at: artifacts]
+[2025-06-20 16:41:09,200: INFO: common: created directories at: artifacts/model_evaluation]
+[2025-06-20 16:41:10,462: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-06-20 16:41:22,888: INFO: main: >>>>>> stage Model Evaluation Stage completed <<<<<<
+
+x=========x]
